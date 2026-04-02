@@ -5,7 +5,6 @@ color:#666;
 font-family:sans-serif;
 margin:0 auto;
 
-
 .header{
   width:90%;
   margin:auto;
@@ -15,12 +14,10 @@ margin:0 auto;
   color:#fff;
 }
 
-
 .jarak{
   padding:0 2pc;
 }
   
-
 .menu{
   background-color:#417aa8;
   height:50px;
@@ -49,3 +46,30 @@ margin:0 auto;
   background-color:#4b88bb;
   disolay:block;
 }
+
+.content{
+  width:70%;
+  margin:auto;
+  height:420ph;
+  padding:0.1px;
+  background:#fff;
+  color:#333;
+}
+
+.border{
+  border:2px solid #4887b9;
+  margin-top:1pc;
+  padding-bottom:1pc;
+  padding-left:2pc;
+  padding-right:2pc;
+}
+
+.kiri{
+  width:70%;
+  float:left;
+  margin:auto;
+  background:#fff;
+  height:420px;
+}
+
+.kanan{
